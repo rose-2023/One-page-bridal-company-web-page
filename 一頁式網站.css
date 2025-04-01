@@ -23,7 +23,7 @@ main h2{
     margin-bottom: 80px;
 }
 header{
-    background: url(images/hero.jpg) no-repeat right center/cover;
+    background: url(婚紗公司網頁_images/hero.jpg) no-repeat right center/cover;
 }
 header .innerWarp{
     height: 720px;
@@ -73,13 +73,13 @@ header nav ul li a:hover{
     position: relative;
 }
 .msgSec p.illust::before{
-content: url(/images/deco_left.png);
+content: url(/婚紗公司網頁_images/deco_left.png);
 position: absolute;
 left: 320px;
 bottom: -30px;
 }
 .msgSec p.illust::after{
-    content: url(/images/deco_right.png);
+    content: url(/婚紗公司網頁_images/deco_right.png);
     position: absolute;
     right: 320px;
     bottom: -30px;
@@ -169,7 +169,7 @@ input{appearance: auto} /*如果raido或checkbox沒辦法顯示需要打上這�
 }
 
 select{
-    background: #ffffff url(/images/arrow.png) no-repeat 98% 50%/17px 10px;
+    background: #ffffff url(/婚紗公司網頁_images/arrow.png) no-repeat 98% 50%/17px 10px;
 }
 textarea{
     height: 148px;
@@ -205,7 +205,7 @@ footer{
     top: 0;
     width: 100%;
     height: 100%;
-    background: url(images/戶外婚禮.jpg) no-repeat center/cover;
+    background: url(婚紗公司網頁_images/戶外婚禮.jpg) no-repeat center/cover;
     z-index: -1;
 }
 /* send按鈕動畫效果 */
@@ -279,7 +279,7 @@ header .scroll img{
         margin-bottom: 60px;
     }
     header{
-        background: url(images/hero_sp.jpg) no-repeat right top/cover;
+        background: url(婚紗公司網頁_images/hero_sp.jpg) no-repeat right top/cover;
     }
     header .innerWarp{
         height: 90vh;
